@@ -1,15 +1,15 @@
 # 📊 Dashboard de Salários na Área de Dados
 
-Este projeto é um dashboard interativo desenvolvido em Python utilizando Streamlit para análise de salários na área de dados.
+Este projeto é um dashboard interativo desenvolvido em **Python** utilizando **Streamlit** para análise de salários na área de dados.
 
-O dashboard permite explorar informações sobre salários, cargos, senioridade, tipo de contrato e distribuição geográfica dos profissionais da área de dados.
+O dashboard permite explorar informações sobre **cargos, níveis de senioridade, tipo de contrato, tamanho das empresas e distribuição geográfica** dos profissionais da área de dados.
 
 ## 🚀 Tecnologias utilizadas
 
-- Python
-- Pandas
-- Plotly
-- Streamlit
+- Python  
+- Pandas  
+- Plotly  
+- Streamlit  
 
 ## 📂 Fonte dos dados
 
@@ -21,7 +21,7 @@ Este projeto foi desenvolvido a partir da **Imersão de Dados promovida pela Alu
 
 Sou muito grato à equipe da Alura por disponibilizar esse conteúdo de forma acessível e por proporcionar uma experiência de aprendizado tão rica.
 
-Este repositório representa minha implementação do projeto apresentado durante a imersão, que utilizei como base para estudo e aprofundamento em análise de dados.
+Este repositório representa **minha implementação do projeto apresentado durante a imersão**, que utilizei como base para estudo e aprofundamento em análise de dados.
 
 ## 👨‍💻 Autor
 
