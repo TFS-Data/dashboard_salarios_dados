@@ -2,7 +2,7 @@
 
 ## 🌐 Acesse o Dashboard
 
-https://dashboard-salarios-dados-rhxf6mzntfyugj4q4eogxd.streamlit.app/
+https://dashboard-salarios-dados-tfs-data.streamlit.app/
 
 
 Este projeto é um dashboard interativo desenvolvido em **Python** utilizando **Streamlit** para análise de salários na área de dados.
