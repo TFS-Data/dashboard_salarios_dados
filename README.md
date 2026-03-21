@@ -1,6 +1,6 @@
-# 📊 Dashboard de Salários na Área de Dados
+#  Dashboard de Salários na Área de Dados
 
-## 🌐 Acesse o Dashboard
+#  Acesse o Dashboard
 
 https://dashboard-salarios-dados-tfs-data.streamlit.app/
 
@@ -9,14 +9,14 @@ Este projeto é um dashboard interativo desenvolvido em **Python** utilizando **
 
 O dashboard permite explorar informações sobre **cargos, níveis de senioridade, tipo de contrato, tamanho das empresas e distribuição geográfica** dos profissionais da área de dados.
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Python  
 - Pandas  
 - Plotly  
 - Streamlit  
 
-## 📂 Fonte dos dados
+##  Fonte dos dados
 
 Os dados utilizados neste projeto estão disponíveis publicamente no GitHub.
 
@@ -28,7 +28,7 @@ Sou muito grato à equipe da Alura por disponibilizar esse conteúdo de forma ac
 
 Este repositório representa **minha implementação do projeto apresentado durante a imersão**, que utilizei como base para estudo e aprofundamento em análise de dados.
 
-📊 Insights obtidos
+ Insights obtidos
 
 Os maiores salários da área de dados estão concentrados nos Estados Unidos, indicando maior maturidade do mercado de tecnologia e dados nesse país.
 
