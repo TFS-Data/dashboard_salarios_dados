@@ -20,7 +20,7 @@ O dashboard permite explorar informações sobre **cargos, níveis de senioridad
 
 Os dados utilizados neste projeto estão disponíveis publicamente no GitHub.
 
-## 🙏 Créditos
+##  Créditos
 
 Este projeto foi desenvolvido a partir da **Imersão de Dados promovida pela Alura**, um projeto gratuito que ensina na prática a construção de dashboards utilizando Python, Pandas, Plotly e Streamlit.
 
@@ -28,7 +28,7 @@ Sou muito grato à equipe da Alura por disponibilizar esse conteúdo de forma ac
 
 Este repositório representa **minha implementação do projeto apresentado durante a imersão**, que utilizei como base para estudo e aprofundamento em análise de dados.
 
- Insights obtidos
+ ## Insights obtidos
 
 Os maiores salários da área de dados estão concentrados nos Estados Unidos, indicando maior maturidade do mercado de tecnologia e dados nesse país.
 
